@@ -1,56 +1,58 @@
-<h1 align="center">Fala aí! Eu sou o Lucas Ferreira 👨‍💻</h1>
-<p align="center">Front-end em formação • Criativo por natureza • Movido a café e código ☕💻</p>
+<h1 align="center">Olá, eu sou o Lucas Ferreira! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudante+de+Desenvolvimento+Web;Apaixonado+por+UI/UX+e+tecnologia;Sempre+aprendendo+algo+novo!&center=true&width=500&height=45"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Front-end+em+evolução+🚀;Code+%2B+Criatividade+%3D+❤️;Criando+projetos+com+alma+de+UI%2FUX+🎨;Eterno+aprendiz+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### 💫 Sobre mim
 
-- 💡 Curioso nato e eterno aprendiz
-- 👨‍🎓 Estudante de desenvolvimento web
-- 🚀 Em busca da minha primeira oportunidade como dev front-end
-- 🌍 Sonho em me tornar um desenvolvedor fullstack
-- 🎬 Nas horas vagas, edito vídeos e brinco com design
-- 🧩 Gosto de resolver problemas e criar interfaces com personalidade
+- 🎓 Estudante de **Desenvolvimento Web**
+- 🚀 Buscando oportunidades como **Desenvolvedor Front-end**
+- 🌱 Aprendendo diariamente: **JavaScript**, **React**, **Figma**
+- 🧠 Objetivo: Me tornar um **Fullstack Developer**
+- 🎥 Videomaker nas horas vagas
+- 🎨 Amante de **UI/UX**, design e desafios criativos
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Minhas Ferramentas & Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,vscode" />
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-tech-silva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-tech-silva&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+### 🌐 Onde me encontrar
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-tech-silva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-tech-silva&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lucas@email.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 💬 Vamos conversar?
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario) — Me chama lá!
-- 💌 Email: lucas@email.com *(exemplo, substitua pelo seu)*
-- 🌐 Portfólio: Em construção... 🛠️
-
----
+### 🎉 Fun fact
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400px"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
 
 <p align="center">
-  <i>“A melhor maneira de prever o futuro é criá-lo.” – Alan Kay</i>
+  <i>"Você não precisa ser um gênio, só persistente." – Bill Gates</i>
 </p>
