@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Lucas! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Especialista+em+Front-end+💻+e+Back-end+⚙️;Apaixonado+por+tecnologias+como+UX%2FUI+🎨;Comprometido+com+soluções+criativas+✨+e+eficientes+⚡;Meu+objetivo+é+criar+soluções+completas+e+lógicas+⚡;Assim+unindo+o+design+🎨+com+o+desenvolvimento+web+🧠" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=008B8B&center=true&vCenter=true&width=1100&lines=Especialista+em+Front-end+💻+e+Back-end+⚙️;Apaixonado+por+tecnologias+como+UX%2FUI+🎨;Comprometido+com+soluções+criativas+✨+e+eficientes+⚡;Meu+objetivo+é+criar+soluções+completas+e+lógicas+⚡;Assim+unindo+o+design+🎨+com+o+desenvolvimento+web+🧠" />
 </p>
 
 ---
