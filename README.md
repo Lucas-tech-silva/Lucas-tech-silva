@@ -1,11 +1,10 @@
-<h1 align="center">Olá, eu sou o Lucas Ferreira! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Olá, eu sou o Lucas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
-<p align="center" style="font-family: 'Courier New', Courier, monospace; font-weight: bold; font-size: 24px; line-height: 1.5;">
-🚀 𝔉𝔯𝔬𝔫𝔱-𝔢𝔫𝔡 𝔢𝔪 𝔢𝔳𝔬𝔩𝔲çã𝔬 🚀<br>
-💻 𝓒𝓸𝓭𝓮 + 𝓒𝓻𝓲𝓪𝓽𝓲𝓿𝓲𝓭𝓪𝓭𝓮 = ❤️<br>
-🎨 𝓐𝓹𝓪𝓲𝔁𝓸𝓷𝓪𝓭𝓸 𝓹𝓸𝓻 𝓤𝓘/𝓤𝓧<br>
-📚 𝓔𝓽𝓮𝓻𝓷𝓸 𝓪𝓹𝓻𝓮𝓷𝓭𝓲𝔃
-</p>
+<h3 align="center">
+  <code>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Apaixonado+por+tecnologia;Desenvolvedor+Front-end;Amante+de+UI%2FUX+Design" />
+  </code>
+</h3>
 
 ---
 
