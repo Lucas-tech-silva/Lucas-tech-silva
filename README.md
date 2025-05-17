@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Lucas! 👋</h1>
----
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=420&lines=Apaixonado+por+tecnologia;Desenvolvedor+Front-end;Foco+em+UI%2FUX+Design" />
 </p>
