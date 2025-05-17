@@ -1,10 +1,9 @@
 <h1 align="center">Olá, eu sou o Lucas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
-<h3 align="center">
-  <code>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Apaixonado+por+tecnologia;Desenvolvedor+Front-end;Amante+de+UI%2FUX+Design" />
-  </code>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=420&lines=Apaixonado+por+tecnologia;Desenvolvedor+Front-end;Foco+em+UI%2FUX+Design" />
+</p>
+
 
 ---
 
