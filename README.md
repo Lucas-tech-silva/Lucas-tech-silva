@@ -8,11 +8,11 @@
 
 ### 💼 Sobre mim
 
-- 👨‍🎓 Estudante de **Desenvolvimento Web** com foco em práticas modernas e eficientes
-- 💻 Interessado em atuar como **Desenvolvedor Front-end**
-- 📚 Estudando diariamente tecnologias como **JavaScript**, **React** e **Figma**
-- 🌍 Objetivo profissional: Me tornar um **Desenvolvedor Fullstack**
-- 🎨 Apaixonado por **design de interfaces (UI)** e **experiência do usuário (UX)**, buscando sempre criar soluções funcionais, intuitivas e visualmente atrativas
+- 👨‍🎓 Estudante de **Desenvolvimento Web** com foco em práticas modernas e eficientes  
+- 💻 Interessado em atuar como **Desenvolvedor Front-end**  
+- 📚 Estudando diariamente tecnologias como **JavaScript**, **React** e **Figma**  
+- 🌍 Objetivo profissional: Me tornar um **Desenvolvedor Fullstack**  
+- 🎨 Apaixonado por **design de interfaces (UI)** e **experiência do usuário (UX)**, buscando sempre criar soluções funcionais, intuitivas e visualmente atrativas  
 
 ---
 
@@ -26,10 +26,12 @@
 
 ### 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-tech-silva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-tech-silva&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<table align="center">
+  <tr>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-tech-silva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/></td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-tech-silva&layout=compact&theme=tokyonight&hide_border=true"/></td>
+  </tr>
+</table>
 
 ---
 
