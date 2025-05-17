@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Lucas Ferreira! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Front-end+em+evolução+🚀;Code+%2B+Criatividade+%3D+❤️;Apaixonado+por+UI%2FUX+e+boas+experiências+🎨;Eterno+aprendiz+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://i.imgur.com/nY8eJ9W.gif" alt="Typing Animation" width="700" />
 </p>
 
 ---
