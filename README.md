@@ -57,4 +57,6 @@
 
 <p align="center">
   <i>"Você não precisa ser um gênio, só persistente." – Bill Gates</i>
+  <i>""Quando algo é importante o suficiente, você faz mesmo que as probabilidades não estejam a seu favor."
+— Elon Musk"</i>
 </p>
