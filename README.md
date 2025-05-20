@@ -38,13 +38,13 @@
 ### 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-silva-ab6360365/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:lucas_ferreira@yahoo.com">
+  <a href="https://mail.yahoo.com/d/folders/1/messages/46?.intl=br&.lang=pt-BR&pspid=2114710002&activity=header-mail">
     <img src="https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/(11)%2091234--5678-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/(11)%2093034--3236-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </p>
 
 ---
