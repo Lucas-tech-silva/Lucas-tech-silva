@@ -44,6 +44,7 @@
   <a href="https://mail.yahoo.com/d/folders/1/messages/46?.intl=br&.lang=pt-BR&pspid=2114710002&activity=header-mail">
     <img src="https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white"/>
   </a>
+   <a href="https://wa.me/5511930343236?text=Ol%C3%A1%2C%20Lucas%20gostaria%20de%20falar%20com%20voc%C3%AA%20%3F">
   <img src="https://img.shields.io/badge/(11)%2093034--3236-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </p>
 
