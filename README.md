@@ -57,5 +57,5 @@
 </p>
 
 <p align="center">
-  <i>Quando algo é importante o suficiente, você faz mesmo que as probabilidades não estejam a seu favor."  <br> — Elon Musk" </i>
+  <i>Quando algo é importante o suficiente, você faz mesmo que as probabilidades não estejam a seu favor.<br> — "Elon Musk" </i>
 </p>
