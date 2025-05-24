@@ -57,5 +57,5 @@
 </p>
 
 <p align="center">
-  <i>💬 "Enquanto uns esperam pela oportunidade, eu a crio. — "Lucas Silva" </i>
+  <i>Quando algo é importante o suficiente, você faz mesmo que as probabilidades não estejam a seu favor. — "Elon Musk" </i>
 </p>
