@@ -58,6 +58,5 @@
 
 <p align="center">
   <i>Quando algo é importante o suficiente, você faz mesmo que as probabilidades não estejam a seu favor. 
-    
-  — "Elon Musk" </i>
+   — "Elon Musk" </i>
 </p>
