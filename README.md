@@ -38,7 +38,7 @@
 ### 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-silva-537346369/overlay/contact-info/" target="_blank">
+   <a href="linkedin.com/in/lucas-silva-537346369" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://mail.yahoo.com/d/folders/1?.intl=br&.lang=pt-BR&pspid=2114710002&activity=header-mail">
