@@ -41,9 +41,17 @@
    <a href="https://www.linkedin.com/in/lucas-silva-ab6360365/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <!-- Botão mailto: -->
   <a href="mailto:lucassilva1710@yahoo.com?subject=Interesse%20em%20seu%20perfil%20no%20GitHub&body=Prezado%20Lucas%2C%0D%0A%0D%0AAnalisei%20seu%20perfil%20no%20GitHub%20e%20fiquei%20interessado%20em%20seu%20trabalho.%20Gostaria%20de%20iniciar%20um%20contato%20profissional.%0D%0A%0D%0AFico%20no%20aguardo%20de%20seu%20retorno.">
     <img src="https://img.shields.io/badge/Enviar%20Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Enviar Email"/>
   </a>
+
+  <!-- Botão Yahoo Mail web -->
+  <a href="https://mail.yahoo.com" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
+    <img src="https://img.shields.io/badge/Abrir%20Yahoo%20Mail-Web-430098?style=for-the-badge&logo=yahoo&logoColor=white" alt="Abrir Yahoo Mail Web"/>
+  </a>
+
   <a href="https://wa.me/5511930343236?  text=Prezado%20Lucas%2C%20tudo%20bem%3F%20Tive%20acesso%20ao%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20uma%20poss%C3%ADvel%20colabora%C3%A7%C3%A3o%20profissional.%20Aguardo%20seu%20retorno.">
     <img src="https://img.shields.io/badge/(11)%2093034--3236-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
