@@ -48,9 +48,9 @@
   </a>
 
   <!-- Botão Yahoo Mail web -->
-<a href="https://mail.yahoo.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Yahoo%20Mail-Web-430098?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Web"/>
-</a>
+  <a href="https://mail.yahoo.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Yahoo%20Web-430098?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Web"/>
+  </a>
 
   <a href="https://wa.me/5511930343236?  text=Prezado%20Lucas%2C%20tudo%20bem%3F%20Tive%20acesso%20ao%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20uma%20poss%C3%ADvel%20colabora%C3%A7%C3%A3o%20profissional.%20Aguardo%20seu%20retorno.">
     <img src="https://img.shields.io/badge/(11)%2093034--3236-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
