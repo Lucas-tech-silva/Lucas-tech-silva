@@ -38,7 +38,7 @@
 ### 🌐 Onde me encontrar
 
 <p align="center">
-   <a href="linkedin.com/in/lucas-silva-ab6360365" target="_blank">
+   <a href="https://www.linkedin.com/in/lucas-silva-ab6360365/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
     <a href="mailto:lucassilva1710@yahoo.com?   subject=Interesse%20em%20seu%20perfil%20no%20GitHub&body=Prezado%20Lucas%2C%0D%0A%0D%0AAnalisei%20seu%20perfil%20no%20GitHub%20e%20fiquei%20interessado%20em%20seu%20trabalho.%20Gostaria%20de%20iniciar%20um%20contato%20profissional.%0D%0A%0D%0AFico%20no%20aguardo%20de%20seu%20retorno.%0D%0A%0D%0AAtenciosamente%2C">
