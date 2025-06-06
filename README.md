@@ -2,7 +2,7 @@
 
 <p align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Especialista+em+front-end+💻;Conhecimento+em+UX%2FUI+design+🎨;Focado+em+soluções+criativas+✨;Dedicado+a+soluções+eficientes+⚡;Unindo+design+🎨;Com+desenvolvimento+web🧠" alt="Texto animado" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Especialista+em+front-end+💻;Conhecimento+em+UX%2FUI+design+🎨;Focado+em+soluções+criativas+✨;Dedicado+a+eficiência+⚡;Unindo+design+🎨+e+desenvolvimento+web🧠" alt="Texto animado" />
 </p>
 </p>
 
