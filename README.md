@@ -1,10 +1,11 @@
 <h1 align="center">Olá, eu sou o Lucas! 👋</h1>
 
 <p align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Especialista+em+Frontend+💻;Conhecimento+em+UX%2FUI+design+🎨;Dedicado+a+soluções+criativas+✨;Foco+em+soluções+funcionais+e+lógicas+⚡;Integrando+design+🎨+como+o+ desenvolvimento+web+🧠" alt="Texto animado"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Especialista+em+Frontend+💻;Conhecimento+em+UX%2FUI+design+🎨;Dedicado+a+soluções+criativas+✨;Foco+em+soluções+funcionais+e+lógicas+⚡;Integrando+design+🎨+e+desenvolvimento+web+🧠" alt="Texto animado"/>
 </p>
 </p>
+
 
 ---
 
