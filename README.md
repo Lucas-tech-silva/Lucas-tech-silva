@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Lucas! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Especialista+em+Front-end+💻+e+Back-end+⚙️;Apaixonado+por+tecnologias+como+UX%2FUI+🎨;Comprometido+com+soluções+criativas+✨+e+eficientes+⚡;Meu+objetivo+é+criar+soluções+completas+e+lógicas+⚡;Assim+unindo+o+design+🎨+com+o+desenvolvimento+web+🧠" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Especialista+em+Front-end+💻+e+Back-end+⚙️;Apaixonado+por+tecnologias+como+UX%2FUI+🎨;Comprometido+com+soluções+criativas+✨+e+eficientes+⚡;Meu+objetivo+é+criar+soluções+completas+e+lógicas+⚡;Assim+unindo+o+design+🎨+com+o+desenvolvimento+web+🧠" />
 </p>
 
 ---
@@ -26,12 +26,9 @@
 
 ### 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Lucas-tech-silva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-tech-silva&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap: wrap;">
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=Lucas-tech-silva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-tech-silva&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
