@@ -54,8 +54,8 @@
     <img src="https://img.shields.io/badge/Yahoo%20Web-430098?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Web"/>
   </a>
 
-  <a href="https://wa.me/5511930343236?text=Prezado%20Lucas%2C%20tudo%20bem%3F%20Tive%20acesso%20ao%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20uma%20poss%C3%ADvel%20colabora%C3%A7%C3%A3o%20profissional.%20Aguardo%20seu%20retorno." target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/(11)%2093034--3236-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <a href="https://wa.me/5511995442274?text=Prezado%20Lucas%2C%20tudo%20bem%3F%20Tive%20acesso%20ao%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20uma%20poss%C3%ADvel%20colabora%C3%A7%C3%A3o%20profissional.%20Aguardo%20seu%20retorno." target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/(11)%2099544--2274-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
