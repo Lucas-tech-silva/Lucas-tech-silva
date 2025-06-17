@@ -1,25 +1,26 @@
-<h1 align="center">Olá, eu sou o Lucas! 👋</h1>
+<h1 align="center">Olá! Eu sou o Lucas 👋</h1>
 
 <p align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Especialista+em+front-end+💻;Conhecimento+em+UX%2FUI+design+🎨;Focado+em+soluções+criativas+✨;Dedicado+a+eficiência+⚡;Unindo+design+🎨;Com+o+desenvolvimento+web+🧠" alt="Texto animado" />
-</p>
+  Apaixonado por UX/UI e focado no desenvolvimento Front-end moderno!
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Especialista+em+Front-end+💻;Conhecimento+em+UX%2FUI+Design+🎨;Focado+em+soluções+criativas+✨;Dedicado+a+eficiência+⚡;Unindo+design+e+desenvolvimento+🧠" alt="Texto animado" />
+</p>
 
 ---
 
-### 💼 Sobre mim
+## 💼 Sobre mim
 
-- 👨‍🎓 Estudante de **Desenvolvimento Web** com foco em práticas modernas e eficientes  
-- 💻 Interessado em atuar como **Desenvolvedor Front-end**  
-- 📚 Estudando diariamente tecnologias como **JavaScript**, **React** e **Figma**  
-- 🌍 Objetivo profissional: Me tornar um **Desenvolvedor Fullstack**  
-- 🎨 Apaixonado por **design de interfaces (UI)** e **experiência do usuário (UX)**, buscando sempre criar soluções funcionais, intuitivas e visualmente atrativas  
+- 👨‍🎓 Estudante de **Desenvolvimento Web** com foco em tecnologias modernas e eficientes  
+- 💻 Buscando atuar como **Desenvolvedor Front-end**  
+- 📚 Estudando **JavaScript**, **React** e **Figma** diariamente  
+- 🎨 Apaixonado por **UI/UX**, criando interfaces intuitivas e experiências incríveis  
+- 🚀 **Objetivo profissional:** Me tornar um **Desenvolvedor Fullstack**
 
 ---
 
-### 🛠️ Minhas Ferramentas & Tecnologias
+## 🛠️ Minhas Ferramentas & Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,vscode" alt="Tecnologias" />
@@ -27,19 +28,21 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 
+### 📊 Estatísticas Gerais
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-tech-silva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&card_width=450" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-tech-silva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&card_width=450" alt="Estatísticas do GitHub" />
 </p>
 
+### 💻 Linguagens Mais Usadas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-tech-silva&layout=compact&theme=tokyonight&hide_border=true&card_width=450" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-tech-silva&layout=compact&theme=tokyonight&hide_border=true&card_width=450" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
-### 🌐 Onde me encontrar
+## 🌐 Onde me encontrar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-silva-ab6360365/" target="_blank" rel="noopener noreferrer">
@@ -57,13 +60,13 @@
 
 ---
 
-### 🎉 Fun fact
+## 🎉 Fun fact
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Fun gif"/>
 </p>
 
 <p align="center">
-  <i>Quando algo é importante o suficiente, você faz mesmo que as probabilidades não estejam a seu favor. <br>
-   — "Elon Musk" </i>
+  <i>“Quando algo é importante o suficiente, você faz mesmo que as probabilidades não estejam a seu favor.” <br>
+   — Elon Musk </i>
 </p>
