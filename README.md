@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Lucas 👋</h1>
 
 <p align="center">
-  Apaixonado por UX/UI e focado no desenvolvimento Front-end moderno!
+  Focado no desenvolvimento Front-end moderno e dedicado a oferecer uma experiência do usuário (UX/UI) de alta qualidade!
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 - 👨‍🎓 Estudante de **Desenvolvimento Web** com foco em tecnologias modernas e eficientes  
 - 💻 Buscando atuar como **Desenvolvedor Front-end**  
 - 📚 Estudando **JavaScript**, **React** e **Figma** diariamente  
-- 🎨 Apaixonado por **UI/UX**, criando interfaces intuitivas e experiências incríveis  
+- 🎨  Dedicado a UX/UI, criando interfaces intuitivas e experiências incríveis 
 - 🚀 **Objetivo profissional:** Me tornar um **Desenvolvedor Fullstack**
 
 ---
