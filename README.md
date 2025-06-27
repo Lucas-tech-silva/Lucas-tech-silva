@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Especialista+em+Front-end+💻;Conhecimento+em+UX%2FUI+Design+🎨;Focado+em+soluções+criativas+✨;Dedicado+a+eficiência+⚡;Unindo+design+e+desenvolvimento+🧠" alt="Texto animado" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Especialista+em+Front-end+💻;Formado+em+UX%2FUI+Design+🎨;Focado+em+soluções+criativas+✨;Dedicado+a+eficiência+⚡;Unindo+design+e+desenvolvimento+🧠" alt="Texto animado" />
 </p>
 
 ---
