@@ -28,8 +28,6 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-
 ### 📊 Estatísticas Gerais
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucas-tech-silva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&card_width=450" alt="Estatísticas do GitHub" />
