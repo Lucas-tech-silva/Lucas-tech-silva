@@ -28,12 +28,16 @@
 
 ---
 
-### 📊 Estatísticas Gerais
+<p align="center">
+  <strong>📊 Estatísticas Gerais</strong>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucas-tech-silva&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&card_width=450" alt="Estatísticas do GitHub" />
 </p>
 
-### 💻 Linguagens Mais Usadas
+<p align="center">
+  <strong>💻 Linguagens Mais Usadas</strong>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-tech-silva&layout=compact&theme=tokyonight&hide_border=true&card_width=450" alt="Linguagens mais usadas" />
 </p>
