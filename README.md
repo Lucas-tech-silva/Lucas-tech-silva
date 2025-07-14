@@ -43,7 +43,7 @@
 ## 🌐 Onde me encontrar
 <br><br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-silva-ab6360365/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+  <a href="https://www.linkedin.com/in/lucassilva-developer/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
