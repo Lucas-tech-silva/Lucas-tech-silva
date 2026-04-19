@@ -27,7 +27,7 @@
 ## 🛠️ Minhas Ferramentas & Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,vscode,nodejs" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,vscode,nodejs" alt="Tecnologias" />
 </p>
 
 ---
