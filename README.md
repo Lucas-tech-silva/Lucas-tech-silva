@@ -1,7 +1,11 @@
 <h1 align="center">Olá! Eu sou o Lucas 👋</h1>
 
 <p align="center">
-  Focado no desenvolvimento Front-end moderno e dedicado a oferecer uma experiência do usuário (UX/UI) de alta qualidade!
+  Desenvolvedor Front-end focado em construir aplicações web modernas com JavaScript, APIs e interfaces responsivas.
+</p>
+
+<p align="center">
+  Transformo ideias em projetos funcionais com foco em performance e experiência do usuário.
 </p>
 
 <p align="center">
