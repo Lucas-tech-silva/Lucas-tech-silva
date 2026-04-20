@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Bem-vindo ao meu GitHub</h1>
+<h1 align="center">👋 Olá! Bem-vindo ao meu GitHub</h1>
 
 <p align="center">
   Desenvolvedor Front-end focado em construir aplicações web modernas com JavaScript, APIs e interfaces responsivas.
