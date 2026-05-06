@@ -16,11 +16,11 @@
 
 ## 💼 Sobre mim
 
-- 👨‍🎓 Estudante de **Desenvolvimento Web** com foco em tecnologias modernas e eficientes  
-- 💻 Buscando atuar como **Desenvolvedor Front-end**  
-- 📚 Estudando **JavaScript**, **React** e **Figma** diariamente  
-- 🎨  Dedicado a UX/UI, criando interfaces intuitivas e experiências incríveis 
-- 🚀 **Objetivo profissional:** Me tornar um **Desenvolvedor Fullstack**
+- 💻 Desenvolvedor Front-End focado em interfaces modernas e responsivas
+- 🚀 Experiência prática com HTML, CSS, JavaScript e consumo de APIs REST
+- 🎨 Noções em UX/UI, criando interfaces intuitivas e funcionais
+- 📁 Projetos autorais com manipulação de dados e aplicações web dinâmicas
+- 🎯 Objetivo: evoluir para Desenvolvedor Full Stack
 
 ---
 
