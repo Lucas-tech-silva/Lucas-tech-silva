@@ -30,19 +30,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,vscode,nodejs" alt="Tecnologias" />
 </p>
 
----
-
-## <p align="center"> <strong> 📊 Estatísticas Gerais</strong> </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lucas-tech-silva&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 <br>
-
-## <p align="center"><strong> 💻 Linguagens Mais Usadas</strong> </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lucas-tech-silva&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
