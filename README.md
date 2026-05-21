@@ -17,11 +17,11 @@
 ## 💼 Sobre mim
 
 - 💻 Desenvolvedor Front-End focado em criar interfaces web funcionais e responsivas
-- 🚀 Experiência prática com HTML, CSS, JavaScript e consumo de APIs REST
+- 🚀 Experiência prática com HTML, CSS, JavaScript, Tailwind CSS e Node.js (básico), além de consumo de APIs em projetos pessoais
 - 🎨 Noções em UX/UI, criando interfaces intuitivas e funcionais
 - 📁 Projetos autorais com manipulação de dados e aplicações web dinâmicas
 - 🎯 Objetivo: evoluir para Desenvolvedor Full Stack
-- 📌 Buscando oportunidades de estágio ou vaga júnior em desenvolvimento Front-End
+- 📌 Buscando oportunidade de estágio ou vaga júnior em desenvolvimento Front-End
 
 --- 
 
@@ -78,5 +78,5 @@
 </p>
 
 <p align="center">
-  <i>“Quando algo é importante o suficiente, você faz mesmo que as probabilidades não estejam a seu favor.” </i>
+  <i>“Foco em construir soluções reais com código limpo e funcional.” </i>
 </p>
