@@ -1,34 +1,54 @@
 <h1 align="center">👋 Olá! Bem-vindo ao meu GitHub</h1>
 
 <p align="center">
-  Desenvolvedor Front-end focado em construir aplicações web modernas com JavaScript, APIs e interfaces responsivas.
+  Desenvolvedor Front-end focado em criar interfaces web funcionais, responsivas e integradas com APIs, com foco em código limpo e experiência do usuário.
 </p>
 
-<p align="center">
-  Transformo ideias em projetos funcionais com foco em performance e experiência do usuário.
-</p>
+<br>
+<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Front-end+Developer+💻;JavaScript+ES6+⚡;APIs+e+Integrações+🌐;Projetos+Web+Responsivos+📱" alt="Texto animado" />
 </p>
 
+<br>
+
 ---
 
 ## 💼 Sobre mim
 
-- 💻 Desenvolvedor Front-End focado em interfaces modernas e responsivas
+- 💻 Desenvolvedor Front-End focado em criar interfaces web funcionais e responsivas
 - 🚀 Experiência prática com HTML, CSS, JavaScript e consumo de APIs REST
 - 🎨 Noções em UX/UI, criando interfaces intuitivas e funcionais
 - 📁 Projetos autorais com manipulação de dados e aplicações web dinâmicas
 - 🎯 Objetivo: evoluir para Desenvolvedor Full Stack
+- 📌 Buscando oportunidades de estágio ou vaga júnior em desenvolvimento Front-End
+
+--- 
+
+## 🎯 Foco atual
+
+- Evoluindo para desenvolvimento Full Stack com foco em projetos reais
+- Aprofundando integração com APIs REST em aplicações web
+- Construindo projetos práticos para portfólio e experiência profissional
 
 ---
 
-## 🛠️ Minhas Ferramentas & Tecnologias
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,vscode,nodejs" alt="Tecnologias" />
-</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Backend (básico)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 <br>
 
