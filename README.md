@@ -21,7 +21,6 @@
 - 🎨 Noções em UX/UI, criando interfaces intuitivas e funcionais
 - 📁 Projetos autorais com manipulação de dados e aplicações web dinâmicas
 - 🎯 Objetivo: evoluir para Desenvolvedor Full Stack
-- 📌 Buscando oportunidade de estágio ou vaga júnior em desenvolvimento Front-End
 
 --- 
 
