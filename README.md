@@ -43,7 +43,7 @@
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Git Hub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Backend (básico)
@@ -59,7 +59,9 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucassilva-developer/" target="_blank"> </a>
+  <a href="https://www.linkedin.com/in/lucassilva-developer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
   <a href="mailto:lucassilva1710@yahoo.com?subject=Contato%20via%20GitHub&body=Prezado%20Lucas%2C%20tudo%20bem%3F%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20uma%20poss%C3%ADvel%20colabora%C3%A7%C3%A3o%20profissional.%20Aguardo%20seu%20retorno." target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
